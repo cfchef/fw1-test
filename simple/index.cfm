@@ -1,0 +1,1 @@
+<cfoutput><h1>#now()#</h1></cfoutput>

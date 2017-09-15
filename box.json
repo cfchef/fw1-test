@@ -1,8 +1,0 @@
-{
-    "dependencies":{
-        "fw1":"be"
-    },
-    "installPaths":{
-        "fw1":"src\\framework"
-    }
-}
